@@ -12,7 +12,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 
 ### 最近在折腾 🛠️
-- Free-Play：一个基于flttter练手的视频播放器
+- Free-Player：一个基于flttter练手的视频播放器
 - 🎯 下一个目标：打造属于自己的移动端产品
 
 ---
